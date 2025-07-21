@@ -1,82 +1,44 @@
 [
   {
     "id": 1,
-    "content": "Início das Inscrições",
-    "start": "2025-05-27",
-    "className": "blue",
-    "type": "inscricao",
-    "title": "Abertura do período para inscrição no ENEM 2025."
+    "content": "Abertura das inscrições",
+    "start": "2025-05-20",
+    "group": "Inscrição"
   },
   {
     "id": 2,
-    "content": "Fim das Inscrições",
+    "content": "Encerramento das inscrições",
     "start": "2025-06-07",
-    "className": "blue",
-    "type": "inscricao",
-    "title": "Último dia para se inscrever no ENEM 2025."
+    "group": "Inscrição"
   },
   {
     "id": 3,
-    "content": "Pagamento da Taxa",
-    "start": "2025-06-12",
-    "className": "gray",
-    "type": "admin",
-    "title": "Prazo final para pagamento da taxa de inscrição."
+    "content": "Aplicação das provas",
+    "start": "2025-11-02",
+    "group": "Prova"
   },
   {
     "id": 4,
-    "content": "Divulgação do Cartão de Confirmação",
-    "start": "2025-10-15",
-    "className": "gray",
-    "type": "admin",
-    "title": "Disponibilização do cartão de confirmação para os inscritos."
+    "content": "Aplicação da segunda etapa",
+    "start": "2025-11-09",
+    "group": "Prova"
   },
   {
     "id": 5,
-    "content": "Prova - 1º Dia",
-    "start": "2025-11-02",
-    "className": "green",
-    "type": "prova",
-    "title": "Aplicação das provas do primeiro dia do ENEM."
+    "content": "Divulgação dos resultados",
+    "start": "2026-01-15",
+    "group": "Resultado"
   },
   {
     "id": 6,
-    "content": "Prova - 2º Dia",
-    "start": "2025-11-09",
-    "className": "green",
-    "type": "prova",
-    "title": "Aplicação das provas do segundo dia do ENEM."
+    "content": "Início das inscrições no SISU",
+    "start": "2026-01-22",
+    "group": "Sisu"
   },
   {
     "id": 7,
-    "content": "Reaplicação das Provas",
-    "start": "2025-11-23",
-    "className": "green",
-    "type": "prova",
-    "title": "Data para reaplicação do ENEM para casos específicos."
-  },
-  {
-    "id": 8,
-    "content": "Divulgação dos Resultados",
-    "start": "2026-01-15",
-    "className": "gray",
-    "type": "resultado",
-    "title": "Publicação oficial dos resultados do ENEM 2025."
-  },
-  {
-    "id": 9,
-    "content": "Início da Solicitação de Isenção da Taxa",
-    "start": "2025-05-01",
-    "className": "blue",
-    "type": "inscricao",
-    "title": "Período para solicitar isenção da taxa de inscrição."
-  },
-  {
-    "id": 10,
-    "content": "Fim da Solicitação de Isenção",
-    "start": "2025-05-10",
-    "className": "blue",
-    "type": "inscricao",
-    "title": "Último dia para solicitar isenção da taxa de inscrição."
+    "content": "Fim das inscrições no SISU",
+    "start": "2026-01-27",
+    "group": "Sisu"
   }
 ]
