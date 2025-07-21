@@ -13,32 +13,39 @@
   },
   {
     "id": 3,
-    "content": "Aplicação das provas",
+    "content": "Aplicação das provas - 1º dia",
     "start": "2025-11-02",
     "group": "Prova"
   },
   {
     "id": 4,
-    "content": "Aplicação da segunda etapa",
+    "content": "Aplicação das provas - 2º dia",
     "start": "2025-11-09",
     "group": "Prova"
   },
   {
     "id": 5,
+    "content": "Reaplicação das provas",
+    "start": "2025-11-23",
+    "group": "Prova"
+  },
+  {
+    "id": 6,
     "content": "Divulgação dos resultados",
     "start": "2026-01-15",
     "group": "Resultado"
   },
   {
-    "id": 6,
+    "id": 7,
     "content": "Início das inscrições no SISU",
     "start": "2026-01-22",
     "group": "Sisu"
   },
   {
-    "id": 7,
+    "id": 8,
     "content": "Fim das inscrições no SISU",
     "start": "2026-01-27",
     "group": "Sisu"
   }
 ]
+
