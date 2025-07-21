@@ -1,50 +1,62 @@
 [
   {
     "id": 1,
-    "content": "Abertura das inscrições",
-    "start": "2025-05-20",
+    "content": "Início das Inscrições",
+    "start": "2025-05-06",
     "group": "Inscrição"
   },
   {
     "id": 2,
-    "content": "Encerramento das inscrições",
-    "start": "2025-06-07",
+    "content": "Fim das Inscrições",
+    "start": "2025-05-17",
     "group": "Inscrição"
   },
   {
     "id": 3,
-    "content": "Aplicação das provas - 1º dia",
+    "content": "Pagamento da taxa",
+    "start": "2025-05-18",
+    "group": "Inscrição"
+  },
+  {
+    "id": 4,
+    "content": "Aplicação da Prova - 1º dia",
     "start": "2025-11-02",
     "group": "Prova"
   },
   {
-    "id": 4,
-    "content": "Aplicação das provas - 2º dia",
+    "id": 5,
+    "content": "Aplicação da Prova - 2º dia",
     "start": "2025-11-09",
     "group": "Prova"
   },
   {
-    "id": 5,
-    "content": "Reaplicação das provas",
-    "start": "2025-11-23",
-    "group": "Prova"
-  },
-  {
     "id": 6,
-    "content": "Divulgação dos resultados",
-    "start": "2026-01-15",
+    "content": "Divulgação do Gabarito",
+    "start": "2025-11-13",
     "group": "Resultado"
   },
   {
     "id": 7,
-    "content": "Início das inscrições no SISU",
+    "content": "Resultado oficial",
+    "start": "2026-01-13",
+    "group": "Resultado"
+  },
+  {
+    "id": 8,
+    "content": "Reaplicação da Prova",
+    "start": "2025-12-10",
+    "group": "Prova"
+  },
+  {
+    "id": 9,
+    "content": "Inscrição SISU",
     "start": "2026-01-22",
     "group": "Sisu"
   },
   {
-    "id": 8,
-    "content": "Fim das inscrições no SISU",
-    "start": "2026-01-27",
+    "id": 10,
+    "content": "Resultado SISU",
+    "start": "2026-01-30",
     "group": "Sisu"
   }
 ]
